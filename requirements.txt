@@ -6,5 +6,5 @@ pipreqs==0.4.9
 qcloudsms-py==0.1.1
 requests==2.20.0
 simplejson==3.15.0
-urllib3==1.24.2
+urllib3==1.26.5
 yarg==0.1.9
